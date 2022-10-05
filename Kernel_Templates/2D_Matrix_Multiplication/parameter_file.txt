@@ -1,0 +1,12 @@
+Type_operation = 3D_Convolution
+M = 96
+N = 32
+K = 64
+data_type = float
+Input_size = 2048
+IS_X = 224
+IS_Y = 224
+FS = 3
+IC = 64
+OC = 64
+BS = 3 
